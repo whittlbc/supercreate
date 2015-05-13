@@ -11,13 +11,14 @@ Setup:
 
 Current use:
 
-(0) To create a new project and GH repo with the same name: 
+  - To create a new project and GH repo with the same name: 
   
-  $ bash supercreate projectName 0
+    $ bash supercreate projectName 0
 
-(1) To do everything in (0) above, but also create a new Node-Express project and tie it to a new Heroku Node server
+  - To do everything in action 0, but also create a new Node-Express project and then tie it to a new Heroku Node server
 
-  $ bash supercreate projectName 1
+    $ bash supercreate projectName 1
+
 
 
 License: MIT 
