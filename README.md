@@ -6,6 +6,8 @@ supercreate is a bash script that can be used to easily create a new project wit
 Setup:
 
   - git clone https://github.com/whittlbc/supercreate.git
+  - chmod +x supercreate
+  - add supercreate dir to $PATH
   - cd supercreate
   - open supercreate script and change the 4 instances of my GH username to whatever yours is
 
@@ -13,11 +15,11 @@ Current use:
 
   - To create a new project and GH repo with the same name: 
   
-    $ bash supercreate projectName 0
+    $ supercreate projectName 0
 
   - To do everything in action 0, but also create a new Node-Express project and then tie it to a new Heroku Node server
 
-    $ bash supercreate projectName 1
+    $ supercreate projectName 1
 
 
 
