@@ -1,4 +1,4 @@
-SUPERCREATE
+supercreate
 =================
 
 supercreate is a bash script that can be used to easily create a new project with a github repo automatically tied it. It can also be used to both automatically tie in a sandbox-level Heroku Node server and create a new Node-Express project. Obviously, its functionality can be adjusted/tailored to varying levels of rubustness based on the wishes and needs of the user.
